@@ -79,7 +79,7 @@ h4{
     list-style: none;
 }
 .summary{
-    margin: 4rem;
+    margin: 3rem 2rem;
 
 }
 .lang, .tools, .major, .college, .year, .place {
@@ -91,4 +91,12 @@ h4{
     text-transform: uppercase;
     font-size: 1rem;
     font-weight: 700;
+}
+span{
+    font-weight:bold;
+    font-size: larger;
+}
+a{  
+    
+    color: blue;
 }
